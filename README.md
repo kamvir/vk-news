@@ -33,7 +33,7 @@ Hey guys this is my sample news-app created via ionic framework and capacitor pl
     </li>
     <li>
       Now the above command will make it runnable on the web browser. For making it runnable in native device, follow these steps:
-      <ol>
+      <ul>
       <li>
         On same command prompt type: <br>
         <code>
@@ -65,8 +65,8 @@ Hey guys this is my sample news-app created via ionic framework and capacitor pl
         <li>
         This will open Android studio( <a href="https://developer.android.com/studio?gclid=CjwKCAiAuqHwBRAQEiwAD-zr3V_NM-eVOmzAoCo4WGDhadk9RzYcUr6I6QKn3u_cdthapQF60lgpKxoC8IAQAvD_BwE">Download and install here</a> ).
         </li>
-      </ol><br>
-      Thats it you will get a runnable apk on your native device (android/ ios).
+      </ul><br>
+      <p>Thats it you will get a runnable apk on your native device (android/ ios).</p>
     </li>  
   </ul>  
 </p>  
