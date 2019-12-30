@@ -1,0 +1,7 @@
+{
+  "name": "vk-news",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

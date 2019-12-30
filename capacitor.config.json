@@ -1,0 +1,8 @@
+{
+  "appId": "com.vkviraj.vknews",
+  "appName": "vk-news",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
