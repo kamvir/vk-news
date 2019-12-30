@@ -1,0 +1,19 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Sources</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-searchbar (ionInput)="searchSources($event)"></ion-searchbar>
+    <app-loading [showLoading]="isLoading"></app-loading>
+    <ion-list>
+       <ion-item *ngFor="let source of sources" (click)="newsService.openUrl(source.url)" class="ion-margin-vertical">
+         <ion-label>
+            <h2><strong>{{ source.name }}</strong></h2>
+            <p>{{ source.description }}</p>
+            <!-- <a [href]="source.url">Click here</a> -->
+         </ion-label>
+       </ion-item>
+     </ion-list>
+</ion-content>
