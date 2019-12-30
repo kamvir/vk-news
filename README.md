@@ -19,7 +19,7 @@ Hey guys this is my sample news-app created via ionic framework and capacitor pl
       <code>
         npm i
       </code>
-      <br>
+      <br><br>
       This will install all necessary dependencies that are required.
     </li>
     <li>
@@ -27,7 +27,7 @@ Hey guys this is my sample news-app created via ionic framework and capacitor pl
       <code>
         ionic s
       </code>
-      <br>
+      <br><br>
       After <b>Compiled successfully</b> message shown on terminal. Go to <br>
       <a href="http://localhost:8100/">http://localhost:8100/</a>
     </li>
@@ -50,7 +50,7 @@ Hey guys this is my sample news-app created via ionic framework and capacitor pl
         After that, type again <br>
         <code>
           ionic capacitor add android/ ios
-        </code><br>
+        </code><br><br>
         No error will be seen this time.
       </li>
       <li>
@@ -65,7 +65,7 @@ Hey guys this is my sample news-app created via ionic framework and capacitor pl
         <li>
         This will open Android studio( <a href="https://developer.android.com/studio?gclid=CjwKCAiAuqHwBRAQEiwAD-zr3V_NM-eVOmzAoCo4WGDhadk9RzYcUr6I6QKn3u_cdthapQF60lgpKxoC8IAQAvD_BwE">Download and install here</a> ).
         </li>
-      </ol>
+      </ol><br>
       Thats it you will get a runnable apk on your native device (android/ ios).
     </li>  
   </ul>  
